@@ -1,7 +1,9 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Samuel Araujo <img src= "https://github.com/samuelsam8/samuelsam8/blob/main/dormrm.gif" align="center" width="180" height="100"/> </img> </h2> 
+<h2 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Samuel Araujo <img src= "https://github.com/samuelsam8/samuelsam8/blob/main/dormrm.gif" align="center" width="85" height="65"/> </img> </h2> 
      
-  👨‍🎓 Graduando em Analise e Desenvolvimento de Sistemas <br>
+  👨‍🎓 Graduando em Analise e Desenvolvimento de Sistemas
+  
   💻Atualmente Técnico de Informática <br>
+  
   📙Buscando aprender cada vez mais <br>
      
 <div align="center">
@@ -10,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsam8&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-##Developing Skills
+### <p align="center" > Developing Skills <br> 
      
 <div align="center" >
    <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -28,3 +30,5 @@
     <img align="center" alt="Vscode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </div>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=samuelsam8&color=blue&style=plastic" alt="Profile views" /> </p>
