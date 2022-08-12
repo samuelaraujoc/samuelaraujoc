@@ -1,13 +1,18 @@
-> # <p align="center"> Samuel Araujo  </p>
-
-<p align="center"> 
-<img src= "https://github.com/samuelsam8/samuelsam8/blob/main/dormrm.gif" align="center" width="250" height="125"/> </img>
-</p>
-
-# <p align="center"> developing skills </p>
+<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Samuel Araujo <img src= "https://github.com/samuelsam8/samuelsam8/blob/main/dormrm.gif" align="center" width="180" height="100"/> </img> </h2> 
      
-<div style="display: inline_block" align="center" ><br>
- 
+  👨‍🎓 Graduando em Analise e Desenvolvimento de Sistemas <br>
+  💻Atualmente Técnico de Informática <br>
+  📙Buscando aprender cada vez mais <br>
+     
+<div align="center">
+  <a href="https://github.com/samuelsam8">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelsam8&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsam8&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+##Developing Skills
+     
+<div align="center" >
    <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -16,10 +21,10 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Type" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img align="center" alt="Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Vscode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </div>
