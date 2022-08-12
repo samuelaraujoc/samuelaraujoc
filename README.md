@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Samuel Araujo <img src= "https://github.com/samuelsam8/samuelsam8/blob/main/dormrm.gif" align="center" width="85" height="65"/> </img> </h2> 
+<h2 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Samuel Araujo <img src= "https://github.com/samuelsam8/samuelsam8/blob/main/dormrm.gif" align="center" width="209 " height="117"/> </img> </h2> 
      
   👨‍🎓 Graduando em Analise e Desenvolvimento de Sistemas
   
