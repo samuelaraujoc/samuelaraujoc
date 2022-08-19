@@ -32,5 +32,5 @@
 </div>
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=samuelsam8&color=blue&style=plastic" alt="Profile views" /> </p>
+
 
