@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Samuel Araujo <img src= "https://github.com/samuelsam8/samuelsam8/blob/main/dormrm.gif" align="center" width="209 " height="117"/> </img> </h1> 
   
 
-* 👨‍🎓 Graduando em Analise e Desenvolvimento de Sistemas
+* 👨‍🎓 Formado em Analise e Desenvolvimento de Sistemas
 * 💻Atualmente Técnico de Informática
 * 📙Buscando aprender cada vez mais
    
