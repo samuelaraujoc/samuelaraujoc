@@ -2,9 +2,6 @@
   
 
 * 👨‍🎓 Formado em Analise e Desenvolvimento de Sistemas
-* 💻Atualmente Técnico de Informática
-* 📙Buscando aprender cada vez mais
-   
      
 <div align="center">
   <a href="https://github.com/samuelsam8">
@@ -28,6 +25,8 @@
   <img align="center" alt="Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Vscode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img align="center" alt="Mysql" height="120" width="120" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </div>
 <br>
