@@ -1,10 +1,10 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="10px"> Samuel Araujo <img src= "https://github.com/samuelsam8/samuelsam8/blob/main/dormrm.gif" align="center" width="105 " height="58"/> </img> </h1> 
+<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="10px"> Samuel Araujo <img src= "https://github.com/samuelaraujoc/samuelaraujoc/blob/main/dormrm.gif" align="center" width="105 " height="58"/> </img> </h1> 
   
 
 * 👨‍🎓 Formado em Analise e Desenvolvimento de Sistemas
      
 <div align="center">
-  <a href="https://github.com/samuelsam8">
+  <a href="https://github.com/samuelaraujoc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelsam8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsam8&layout=compact&langs_count=7&theme=radical"/>
 </div>
