@@ -1,4 +1,4 @@
-<h1> Bem-vindo(a)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=523BF7&random=false&width=435&lines=Ol%C3%A1%2C+Bem+vindo(a))](https://git.io/typing-svg)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
 <img width="300px" align="right" src="https://github.com/samuelaraujoc/samuelaraujoc/blob/main/dormrm.gif"></h1> 
 
 
