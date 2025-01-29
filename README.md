@@ -5,7 +5,7 @@
 <p align="center">
   
 * 👨‍🎓 Analise e Desenvolvimento de Sistemas
-* ✔ Quality Assurance
+* ✔ Analista de Teste
 * 🖥️ Técnico de informática
   
   
